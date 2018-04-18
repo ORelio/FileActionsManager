@@ -1,0 +1,9 @@
+*.suo
+Other
+FileActionsConsole/bin
+FileActionsConsole/obj
+FileActionsConsole/*.user
+FileActionsManager/bin
+FileActionsManager/obj
+FileActionsManager/*.user
+.vs

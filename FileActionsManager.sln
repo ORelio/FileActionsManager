@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileActionsConsole", "FileActionsConsole\FileActionsConsole.csproj", "{9E2133B2-F1E4-4BDD-B105-1797C8F703F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileActionsManager", "FileActionsManager\FileActionsManager.csproj", "{9DADC942-E157-4FAB-8636-956ED2C08729}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E2133B2-F1E4-4BDD-B105-1797C8F703F5}.Debug|x86.ActiveCfg = Debug|x86
+		{9E2133B2-F1E4-4BDD-B105-1797C8F703F5}.Debug|x86.Build.0 = Debug|x86
+		{9E2133B2-F1E4-4BDD-B105-1797C8F703F5}.Release|x86.ActiveCfg = Release|x86
+		{9E2133B2-F1E4-4BDD-B105-1797C8F703F5}.Release|x86.Build.0 = Release|x86
+		{9DADC942-E157-4FAB-8636-956ED2C08729}.Debug|x86.ActiveCfg = Debug|x86
+		{9DADC942-E157-4FAB-8636-956ED2C08729}.Debug|x86.Build.0 = Debug|x86
+		{9DADC942-E157-4FAB-8636-956ED2C08729}.Release|x86.ActiveCfg = Release|x86
+		{9DADC942-E157-4FAB-8636-956ED2C08729}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
